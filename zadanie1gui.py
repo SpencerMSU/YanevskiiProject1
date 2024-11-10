@@ -69,7 +69,7 @@ class Ui_guishka(object):
     def retranslateUi(self, guishka):
         _translate = QtCore.QCoreApplication.translate
         guishka.setWindowTitle(_translate("guishka", "Dialog"))
-        self.pushButton.setText(_translate("guishka", "Закрыть приложение"))
+        self.pushButton.setText(_translate("guishka", "Закрыт приложение"))
         self.textBrowser.setHtml(_translate("guishka", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
